@@ -90,7 +90,7 @@ if (slider4) {
   }).mount();
 }
 
-// Noticias
+/** Noticias (apagado, não é necessario)
 if (slider5) {
   new Glide("#glide_5", {
     type: "carousel",
@@ -112,3 +112,4 @@ if (slider5) {
 }
 
 AOS.init();
+*/
