@@ -90,7 +90,7 @@ if (slider4) {
   }).mount();
 }
 
-/** Noticias (apagado, não é necessario)
+// Noticias (apagado, não é necessario)
 if (slider5) {
   new Glide("#glide_5", {
     type: "carousel",
