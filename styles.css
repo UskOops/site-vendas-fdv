@@ -1545,7 +1545,7 @@ criticosmidia query
 ======================
 seleção de noticias (resolvi apagar no fim)
 ======================
-*/
+
 
 .news {
   padding-bottom: 8rem;
@@ -1609,7 +1609,7 @@ seleção de noticias (resolvi apagar no fim)
 ======================
 noticias (seção apagada)
 ======================
-*/
+
 
 .newsletter {
   padding: 6rem 0;
@@ -1665,7 +1665,7 @@ noticias (seção apagada)
 ======================
 noticias midia query
 ======================
-*/
+
 @media only screen and (max-width: 998px) {
   .newsletter {
     padding: 6rem 4rem;
@@ -1722,7 +1722,7 @@ noticias midia query
 
 /*
 ======================
-Footer
+Footer (rodapé)
 ======================
 */
 
