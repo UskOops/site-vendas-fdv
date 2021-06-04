@@ -1605,10 +1605,11 @@ seleção de noticias (resolvi apagar no fim)
   background-color: var(--black);
 }
 
-/*
-======================
+*/
+
+/*======================
 noticias (seção apagada)
-======================
+======================*/
 
 
 .newsletter {
@@ -1664,7 +1665,7 @@ noticias (seção apagada)
 /*
 ======================
 noticias midia query
-======================
+======================*/
 
 @media only screen and (max-width: 998px) {
   .newsletter {
