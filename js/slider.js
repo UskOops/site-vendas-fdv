@@ -112,4 +112,4 @@ if (slider5) {
 }
 
 AOS.init();
-*/
+
